@@ -31,10 +31,6 @@ repository:
 launch_buttons:
   thebe                  : true
 
-html:
-  use_thebe              : true  # Ativa Thebe automaticamente em todas as páginas
-
-
   # Information about where the book exists on the web
 repository:
   url                       : https://github.com/Dillard009/jptes  # Online location of your book
